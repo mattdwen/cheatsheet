@@ -2,21 +2,21 @@
 
 ## Git
 
-### Force Push
+- **Force Push**
 
-```
-git push origin master --force
-```
+  ```
+  git push origin master --force
+  ```
 
-### Rebase
+- **Rebase**
 
-```
-git checkout experiment
-git rebase master
-```
+  ```
+  git checkout experiment
+  git rebase master
+  ```
 
 ## Visual Studio Code
 
 - **Open Markdown Preview**
 
-    `ctrl+k v`
+    `ctrl+k` `v`
