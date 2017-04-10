@@ -2,6 +2,12 @@
 
 ## Git
 
+### Force Push
+
+```
+git push origin master --force
+```
+
 ### Rebase
 
 ```
