@@ -1,5 +1,13 @@
 # Cheatsheet
 
+## Editors
+
+Atom, Visual Studio, and VS Code.
+
+- **Find in Files**
+
+  `ctrl+shift+f`
+
 ## Git
 
 - **Force Push**
