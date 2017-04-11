@@ -8,6 +8,12 @@ Atom, Visual Studio, and VS Code.
 
   `ctrl+shift+f`
 
+- **Markdown Preview**
+
+  `ctrl+shift+m`
+
+  *Note: Custom binding in VS Code.*
+
 ## Git
 
 - **Force Push**
@@ -28,9 +34,3 @@ Atom, Visual Studio, and VS Code.
 - **Search Solution Explorer**
 
   `ctrl+;`
-
-## Visual Studio Code
-
-- **Open Markdown Preview**
-
-    `ctrl+k` `v`
