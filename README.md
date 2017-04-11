@@ -23,6 +23,12 @@ Atom, Visual Studio, and VS Code.
   git rebase master
   ```
 
+## Visual Studio
+
+- **Search Solution Explorer**
+
+  `ctrl+;`
+
 ## Visual Studio Code
 
 - **Open Markdown Preview**
