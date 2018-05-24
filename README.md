@@ -29,6 +29,14 @@ Atom, Visual Studio, and VS Code.
   git rebase master
   ```
 
+## PowerShell
+
+- **Tail**
+
+  ```
+  Get-Content .\path\to\file.txt -wait
+  ```
+
 ## Visual Studio
 
 - **Search Solution Explorer**
