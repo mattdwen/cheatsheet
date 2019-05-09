@@ -1,5 +1,19 @@
 # Cheatsheet
 
+## Code
+
+- **C# Pattern Matching**
+
+  ```c#
+  public void HandleException(Exception ex) {
+    if (ex is MyCustomException customEx) {
+      // Do thing with the custom type
+    } else {
+      // Do thing with a normal exception
+    }
+  }
+  ```
+
 ## Editors
 
 Atom, Visual Studio, and VS Code.
